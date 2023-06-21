@@ -26,7 +26,6 @@ namespace Caesar_Encryption
             {
                 textBox2.Text += Convert.ToChar(item + 3);
             }
-
         }
 
         private void button2_Click(object sender, EventArgs e)
